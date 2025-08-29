@@ -34,8 +34,8 @@ El preprocesamiento del texto incluye:
 
 3. **Ejecuta el notebook**
  ```bash
- jupyter notebook BoW.ipyn
+ jupyter notebook Word2Vec.ipynb.ipyn
  ```
 
 ## 🚀 Ejecutar en colab 🚀
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yuritzi15/Bag-of-Words/blob/main/BoW.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Yuritzi15/Word2Vec/blob/main/Word2Vec.ipynb)
