@@ -22,7 +22,7 @@ El preprocesamiento del texto incluye:
 ## ⚙️ Ejecutar el Notebook con Jupyter o VS Code ⚙️
 1. **Clona el repositorio** 
  ```bash
- git clone https://github.com/Yuritzi15/Bag-of-Words
+ git clone https://github.com/Yuritzi15/Word2Vec
  cd repositorio-bow
 ```
 
